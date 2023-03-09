@@ -11,8 +11,8 @@ public class ArraylistProgram {
 
 	public static void main(String[] args) {
 		ArrayList<String> myList=new ArrayList<String>();
-		myList.add("Sulekha");
-		myList.add("Saisha");
+		myList.add("Sulekha1");
+		myList.add("Saisha1");
 		myList.add("Janvi");
 		myList.add("Arati");
 		System.out.println(myList);
